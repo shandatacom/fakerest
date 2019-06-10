@@ -1,0 +1,11 @@
+##GET https://my-json-server.typicode.com/shandatacom/fakerest/posts
+
+##GET https://my-json-server.typicode.com/shandatacom/fakerest/posts/1
+
+##GET https://my-json-server.typicode.com/shandatacom/fakerest/comments
+
+##GET https://my-json-server.typicode.com/shandatacom/fakerest/comments/1
+
+##GET https://my-json-server.typicode.com/shandatacom/fakerest/profile
+
+GET https://my-json-server.typicode.com/shandatacom/fakerest/db 
